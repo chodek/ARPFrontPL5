@@ -1,0 +1,8 @@
+1. Utworz pusty plik i dodaj go do sledzenia.
+2. Stworz commit bez flagi -m z tym plikiem
+3. Stworz nowy plik, uzupelnij tesktem.
+4. Stworz commit uzywajac flagi -m
+*Sprwadz historie commitow "git log"
+uzywaj dowolnych poznanych dotad polecen, pamietaj o czestym 'git commit' zeby widziec co sie 
+dzieje
+
